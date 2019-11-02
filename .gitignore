@@ -3,3 +3,5 @@ yarn.lock
 package-lock.json
 yarn-err.log
 .DS_Store
+output
+samples/**/output

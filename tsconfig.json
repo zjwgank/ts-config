@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "outDir": "./output",
+        "outFile": "index-ts.js",
+        "module": "AMD",   
+    }
+}
