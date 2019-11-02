@@ -1,7 +1,8 @@
 {
     "compilerOptions": {
         "outDir": "./output",
-        "outFile": "index-ts.js",
-        "module": "ES6",   
+        // "outFile": "index-ts.js",
+        "module": "UMD",
+        "target": "es6"  
     }
 }

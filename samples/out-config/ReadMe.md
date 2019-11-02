@@ -10,6 +10,7 @@
      * System -- [SystemJS,通用模块加载](https://blog.csdn.net/weixin_39331259/article/details/92802638)
      * UMD -- [通用模块定义规范](https://www.jianshu.com/p/6e61bf5c4d23)
      * ES6(ES2015) -- [ES6模块化](http://es6.ruanyifeng.com/#docs/module)
+ * target配置即为编译输出后的ES版本
 
 ## 参考文献
   
