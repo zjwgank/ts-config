@@ -1,0 +1,23 @@
+{
+  "name": "ts-config",
+  "version": "1.0.0",
+  "description": "typescript配置",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node_modules/.bin/tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zjwgank/ts-config.git"
+  },
+  "author": "zjwgank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zjwgank/ts-config/issues"
+  },
+  "homepage": "https://github.com/zjwgank/ts-config#readme",
+  "dependencies": {
+    "typescript": "^3.6.4"
+  }
+}
