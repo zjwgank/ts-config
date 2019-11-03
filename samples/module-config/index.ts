@@ -1,3 +1,4 @@
+import "tsconfig-paths/register";
 import { logTool } from 'action/index';
 import config from 'config/index';
 

@@ -2,7 +2,7 @@
     "compilerOptions": {
         "outDir": "./output",
         // "outFile": "index-ts.js",
-        "module": "UMD",
+        "module": "CommonJS",
         "target": "es6"  
     }
 }

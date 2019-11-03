@@ -2,6 +2,6 @@
     "compilerOptions": {
         "outDir": "./output",
         // "outFile": "index-ts.js",
-        "module": "es6",   
+        "module": "CommonJS", 
     }
 }

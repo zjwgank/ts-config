@@ -1,4 +1,4 @@
-import { test } from './utils'
+import { test } from './utils';
 
 const str: string = 'hello world'
 test()

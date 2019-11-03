@@ -1,0 +1,12 @@
+{
+  "name": "out-config",
+  "version": "1.0.0",
+  "description": "编译输出配置",
+  "main": "index.js",
+  "scripts": {
+    "build":"../../node_modules/.bin/tsc",
+    "start":"ts-node index.ts"
+  },
+  "author": "zjwgank",
+  "license": "ISC"
+}
