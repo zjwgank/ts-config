@@ -2,7 +2,7 @@
     "compilerOptions": {
         "outDir": "./output",
         "module": "CommonJS",
-        "target": "esnext",
+        "target": "es5",
         "baseUrl": ".",
         "paths": {
             "config":["config"],

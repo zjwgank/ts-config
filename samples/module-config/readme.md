@@ -11,3 +11,8 @@
     }                              }
     ```
     当查找模块时，去对应相对模块查找即`./config`或者`./config/index`下查找。
+
+## 注意
+
+  * ts-node运行是注意，module配置为CommonJS，否则会因为import模块导致错误
+  * ts-node运行时，配置paths需要引入tsconfig-paths,`import 'tsconfig-paths/register'`,[tsconfig-paths](https://www.npmjs.com/package/tsconfig-paths)
