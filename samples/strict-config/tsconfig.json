@@ -3,6 +3,12 @@
         "outDir": "./output",
         "module": "CommonJS",
         "target": "es5",
+        "noImplicitAny": true,
+        "noImplicitThis":true,
+        "alwaysStrict": true,
+        "strictNullChecks": true,
+        "strictPropertyInitialization": true,
+        "strictFunctionTypes": false,
         "baseUrl": ".",
         "paths": {
             "action":["action"],
