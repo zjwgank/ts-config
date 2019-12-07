@@ -3,6 +3,12 @@
         "outDir": "./output",
         // "outFile": "index-ts.js",
         "module": "CommonJS",
-        "target": "es6"  
+        "target": "es6",
+        "emitBOM": true,
+        // "inlineSourceMap": true,
+        "sourceMap": true,
+        "inlineSources": true,
+        "removeComments": true,
+        // "noEmit": true
     }
 }

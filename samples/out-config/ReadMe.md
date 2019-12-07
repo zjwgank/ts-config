@@ -11,8 +11,14 @@
      * UMD -- [通用模块定义规范](https://www.jianshu.com/p/6e61bf5c4d23)
      * ES6(ES2015) -- [ES6模块化](http://es6.ruanyifeng.com/#docs/module)
  * target配置即为编译输出后的ES版本
+ * emitBOM 在输出文件的开头加入BOM头:bom头是判断文本文件是哪一种Unicode编码的标记
+ * inlineSourceMap + inlineSources 将代码与sourcemaps生成到一个文件
+ * sourceMap + inlineSources 代码和sourcemaps生成不同的文件中
+ * removeComments 删除注释
+ * noEmit 编译后没有输出文件
 
 ## 参考文献
   
   * [UMD](https://www.jianshu.com/p/6e61bf5c4d23)
   * [前端模块化规范](https://www.jianshu.com/p/00ee4e45c0cd)
+  * [什么是文件BOM头以及BOM头有哪些坑](https://www.cnblogs.com/qinmengjiao123-123/p/8325646.html)
