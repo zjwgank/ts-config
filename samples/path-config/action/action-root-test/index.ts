@@ -1,0 +1,1 @@
+const str: string = "这也是一个测试文件"
