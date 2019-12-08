@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "outDir": "./output",
+        "module": "CommonJS",
+        "target": "ES6",
+        "diagnostics": true,
+        // "extendedDiagnostics":true
+        // "listEmittedFiles": true,
+        // "listFiles": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        // "traceResolution": true,
+        // "pretty": true
+        // "noErrorTruncation": true
+        // "locale":"en-us"
+        // "checkJs": true
+        // "allowUnusedLabels": true,
+        // "allowUnreachableCode": true
+        
+    }
+}

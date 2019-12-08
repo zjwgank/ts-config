@@ -16,6 +16,7 @@
  * sourceMap + inlineSources 代码和sourcemaps生成不同的文件中
  * removeComments 删除注释
  * noEmit 编译后没有输出文件
+ * newLine 当生成文件时指定行结束符 --crlf|lf
 
 ## 参考文献
   

@@ -1,0 +1,16 @@
+{
+  "name": "log-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"ts-node index.ts",
+    "build":"node_modules/.bin/tsc"
+  },
+  "author": "zjwgank",
+  "license": "ISC",
+  "dependencies": {
+    "tsconfig-paths": "^3.9.0",
+    "typescript": "^3.7.3"
+  }
+}
